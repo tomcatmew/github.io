@@ -1,4 +1,3 @@
-site.title = "dasda"
 <h1>daadad </h1>
 ## Welcome to GitHub Pages
 
