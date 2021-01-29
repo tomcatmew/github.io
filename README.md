@@ -1,4 +1,4 @@
-title: "POST TITLE"
+title: "Yifei Chen CV"
 
 ## Welcome to GitHub Pages
 
